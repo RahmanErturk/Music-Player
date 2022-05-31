@@ -123,13 +123,12 @@ header i:nth-child(3) {
 }
 
 .cntrl-buttons i:nth-child(2) {
-    padding: 14px 16px 14px 16px;
-    border-radius: 24px;
+    padding: 14px 16px;
+    border-radius: 23px;
     background: #dbdbdb;
-    box-shadow: inset -5px 5px 10px #cecece,
-                inset 5px -5px 10px #efefef;
+    box-shadow: inset -4px 4px 8px #cecece,
+                inset 4px -4px 8px #efefef;
     color: #19e3f2;
-    font-size: 2.8rem;
 }
 footer {
     width: 50%;
